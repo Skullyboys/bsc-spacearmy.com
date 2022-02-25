@@ -2498,3 +2498,10 @@
   .cyl-20 .face, .cyl-20 .side {
     background-color:#bfc9c5;
   }
+
+.content1 {
+	font-size: 16px;
+}
+.content1_caption {
+	font-size: 0.5em;
+}
